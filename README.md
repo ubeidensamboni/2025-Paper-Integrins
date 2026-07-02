@@ -4,8 +4,6 @@ This repository contains the complete LaTeX source code for the published manusc
 
 ## Repository Structure
 
-## Repository Structure
-
 ```text
 .
 ├── README.md
