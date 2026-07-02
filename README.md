@@ -4,30 +4,36 @@ This repository contains the complete LaTeX source code for the published manusc
 
 ## Repository Structure
 
+## Repository Structure
 
-integrins/
-├── integrins.tex                 # Main LaTeX manuscript
-├── referen.bib                   # Bibliography database
-├── *.pdf / *.png / *.jpg         # Figures used in the manuscript
-├── ...
+```text
+.
+├── README.md
+├── integrins/
+│   ├── integrins.tex          # Main LaTeX manuscript
+│   ├── referen.bib            # BibTeX bibliography
+│   ├── *.png                  # Figures
+│   ├── *.jpg
+│   └── ...                    # Additional LaTeX source files
 │
 ├── 1_Responses Reviewers.pdf
 ├── 2_Manuscript Integrins.pdf
 ├── 3_Manuscript Integrins Reviewers.pdf
 └── 4_Supporting Information.pdf
+```
 
+### Description
 
-### Contents
+| File/Folder | Description |
+|--------------|-------------|
+| `integrins/` | Complete LaTeX source of the manuscript, including figures and bibliography. |
+| `integrins/integrins.tex` | Main LaTeX source file. |
+| `integrins/referen.bib` | BibTeX bibliography database. |
+| `1_Responses Reviewers.pdf` | Point-by-point responses to the reviewers. |
+| `2_Manuscript Integrins.pdf` | Final clean version of the submitted manuscript. |
+| `3_Manuscript Integrins Reviewers.pdf` | Annotated manuscript showing revisions made during peer review. |
+| `4_Supporting Information.pdf` | Supporting Information accompanying the published article. |
 
-- **integrins.tex** — Main LaTeX source of the manuscript.
-- **referen.bib** — BibTeX bibliography.
-- **Figures** — All figures used in the manuscript.
-- **1_Responses Reviewers.pdf** — Response comment's reviewers.
-- **2_Manuscript Integrins.pdf** — Final CLEAN SUBMITTED manuscript.
-- **3_Manuscript Integrins Reviewers.pdf** — Version with tracked reviewer responses/comments.
-- **4_Supporting Information.pdf** — Supporting Information accompanying the publication.
-
----
 
 ## Publication
 
