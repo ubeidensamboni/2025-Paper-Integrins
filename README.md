@@ -12,7 +12,6 @@ This repository contains the complete LaTeX source code for the published manusc
 │   ├── referen.bib            # BibTeX bibliography
 │   ├── *.png                  # Figures
 │   ├── *.jpg
-│   └── ...                    # Additional LaTeX source files
 │
 ├── 1_Responses Reviewers.pdf
 ├── 2_Manuscript Integrins.pdf
