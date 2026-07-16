@@ -1,4 +1,4 @@
-# Integrins Paper– LaTeX Source Files: [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facs.langmuir.5c01320-blue?style=for-the-badge&logo=doi)](https://doi.org/10.1021/acs.langmuir.5c01320)
+# Integrins Paper– LaTeX Source Files: [![DOI](https://img.shields.io/badge/-10.1021%2Facs.langmuir.5c01320-blue?style=for-the-badge&logo=doi)](https://doi.org/10.1021/acs.langmuir.5c01320)
 
 
 This repository contains the complete LaTeX source code for the published manuscript, including all figures, bibliography, and supplementary files used to compile the paper.
